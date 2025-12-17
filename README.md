@@ -2,9 +2,9 @@
   
 # Hi, I'm Kholil Asjaduddin 👋
 
-### VR Developer | Unity & Unreal Specialist | 🏆 2nd Place LO KREATIF 2024
+### VR Developer | Unity & C# | 🏆 2nd Place LO KREATIF 2024
 
-Building immersive experiences that solve real-world problems through VR/AR technology.
+Building immersive experiences that solve real-world problems through VR technology.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kholil-asjaduddin/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasjaduddin@outlook.com)
@@ -20,7 +20,7 @@ Building immersive experiences that solve real-world problems through VR/AR tech
 - 🎮 Specializing in **VR training simulations** and **educational VR applications**
 - 💼 Building projects with **Unity**, **Unreal Engine 5**, **C#**, and **C++**
 - 🌱 Currently learning advanced XR interactions and performance optimization
-- 📫 Open to VR/XR Developer internships starting **January 2026**
+- 📫 Open to VR Developer internships starting **January 2026**
 
 ---
 
