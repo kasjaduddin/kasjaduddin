@@ -73,8 +73,8 @@ Educational VR training system validated with 30+ users.
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Kholil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasjaduddin&show_icons=true&theme=tokyonight)
+
+![Kholil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasjaduddin&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasjaduddin&layout=compact&theme=tokyonight)
 
